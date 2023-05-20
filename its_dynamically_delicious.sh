@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # This is where you should put your key, if you don't put your key, spoiler alert, it won't work.
-$dreamKey= PUT YOUR KEY HERE
+dreamKey= PUT YOUR KEY HERE
 
 # sets the ip address based on ipinfo.io this sets as a variable and in a file for different use in both address update and for the comm command below.
 ip=$(curl ipinfo.io/ip)
